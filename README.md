@@ -8,4 +8,4 @@ For pin configurations, see ultrasonic.h in Ultrasoniclib. For example, to use p
 #define TRIG_PORT D
 Note that the ECHO pin may only be on pins 2 and 3 (PD2 and PD3), due to the availability of interrupts on the Arduino Uno, hence the lack of an ECHO_PORT definition.
 
-For details on this project, visit the wiki.
+For details on this project, visit the wiki page.
