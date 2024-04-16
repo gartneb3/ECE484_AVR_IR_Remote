@@ -21,6 +21,7 @@ def run_command(command):
 print ("Number of arguments: %d" %  len(sys.argv))
 print ("Argument List: %s" % str(sys.argv))
 
+# CHANGE LINES 25, 26, 27, AND 29 BASED ON YOUR CODE
 files_to_compile = ['git_ir_remote', 'IRlib\irreader', 'UARTlib\\uart']  
 directories = ["IRlib", "UARTlib"]
 file_to_compile = 'git_ir_remote'
