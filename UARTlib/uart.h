@@ -1,9 +1,3 @@
-/**
- * UART Driver
- * Authors: Chris Lallo, Blake Rile, Bradley Gartner, Jerry Chen
- * Date: 3/6/2024
-*/
-
 #include <avr/io.h>
 
 #ifndef UART_H
